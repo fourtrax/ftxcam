@@ -1,4 +1,5 @@
 # SVG Path specification parser
+# ( from https://github.com/regebro/svg.path/ )
 
 import re
 import path
