@@ -13,5 +13,6 @@ work in progress
 
 Usage
 =====
-python setup.py build
-python ftxcam.py
+	(easy_install cython)
+	python setup.py build 
+	python ftxcam.py
