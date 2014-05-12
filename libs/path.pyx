@@ -1,3 +1,4 @@
+# part of svg.path ( from https://github.com/regebro/svg.path/ )
 # cython: profile=False
 
 from __future__ import division
