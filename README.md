@@ -16,3 +16,4 @@ Usage
 	(easy_install cython)
 	python setup.py build 
 	python ftxcam.py
+
